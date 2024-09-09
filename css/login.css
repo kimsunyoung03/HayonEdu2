@@ -10,6 +10,7 @@
 .signupcommon .gray_box input:not(.last_input){margin-bottom:8px}
 .signupcommon .gray_box button{margin:24px auto;}
 .signupcommon .last_input{margin-bottom:0}
+.signupcommon .tit_area{padding-bottom:24px;border-bottom:1px solid #000;}
 
 #Signup01{margin:100px auto 170px}
 #Signup01 .label_chk_wrap:has(.allceck){margin:40px 0 24px;}
